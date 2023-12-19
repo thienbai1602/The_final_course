@@ -8,13 +8,10 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
 The project will perfrom the tasks about indetify an object in a image and speak aloud it. For example, if there is a picture which has a chair while the project is running, it will indetify the object in image, and then speak aloud outside.
 
 
 ## Background
-
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
 This is how you make a list, if you need one:
 * problem 1: How to indetify the object in a image.
